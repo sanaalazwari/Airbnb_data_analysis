@@ -14,7 +14,7 @@ You also need to install Anaconda or a similar software to execute the corresspo
 ## About this project
 The aim of this project is to analyze Seattle Airbnb data for Udadcity Nanodegree Program. 
 Many of the approaches and code I use here can be applied to different Airbnb datasets. 
-You can have a look at [my medium post] (https://sana-alazwari.medium.com/airbnb-in-seattle-a-data-science-approach-1db5f3e9f360) regarding the analysis of Seattle Airbnb dataset.
+You can have a look at [my medium post](https://sana-alazwari.medium.com/airbnb-in-seattle-a-data-science-approach-1db5f3e9f360) regarding the analysis of Seattle Airbnb dataset.
 
 **This Project answers three main questions as follows:**
 **1- Which neighborhoods have the highest number of listings?**
