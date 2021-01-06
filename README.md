@@ -25,10 +25,11 @@ Magnolia, Downtown and Queen Ann are the top three neighborhoods with the most e
 Although the rating review scores are quite similar to almost all neighborhoods, Interbay, Central Area and Seward Park have slightly higher reveiw scores. 
 
 ## Files Description
-This project includes only one notebook (airbnbvis.ipynb) and three csv files:
-1- airbnb_listings.csv
-2- reviews.csv
-3- listing_price.csv
+This project includes only two notebooks (airbnbvis.ipynb and airbnb_data_wrangling.ipynb) and three csv files:
+1- listings.csv
+2- airbnb_listings.csv
+3- reviews.csv
+
 
 ## Acknowledgement
 I would like to thank Airbnb for publishing their data and making it open to the public. I would like to thank Udacity for their great Data Science Nanodegree Program. 
