@@ -26,9 +26,9 @@ Although the rating review scores are quite similar to almost all neighborhoods,
 
 ## Files Description
 This project includes only two notebooks (airbnbvis.ipynb and airbnb_data_wrangling.ipynb) and three csv files:
-1- listings.csv
-2- airbnb_listings.csv
-3- reviews.csv
+1. listings.csv
+1. airbnb_listings.csv
+1. reviews.csv
 
 
 ## Acknowledgement
