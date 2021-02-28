@@ -18,11 +18,13 @@ You can have a look at [my medium post](https://sana-alazwari.medium.com/airbnb-
 
 **This Project answers three main questions as follows:**
 1. Which neighborhoods have the highest number of listings?
-Among all Seattle's neighborhoods, Analysing the dataset shows that Capitol Hill, Downtown and Central Area are the highest neighborhoods in the number of listings.
 1. Which neighborhoods have the highest listing prices?
-Magnolia, Downtown and Queen Ann are the top three neighborhoods with the most expensive listings prices.
 1. Which neighborhoods have the highest rating review scores?
-Although the rating review scores are quite similar to almost all neighborhoods, Interbay, Central Area and Seward Park have slightly higher reveiw scores. 
+
+**Results of ananlysis that answer our questions:**
+1. Among all Seattle's neighborhoods, Analysing the dataset shows that Capitol Hill, Downtown and Central Area are the highest neighborhoods in the number of listings.
+1. Magnolia, Downtown and Queen Ann are the top three neighborhoods with the most expensive listings prices.
+1. Although the rating review scores are quite similar to almost all neighborhoods, Interbay, Central Area and Seward Park have slightly higher reveiw scores. 
 
 ## Files Description
 This project includes only two notebooks (airbnbvis.ipynb and airbnb_data_wrangling.ipynb) and three csv files:
